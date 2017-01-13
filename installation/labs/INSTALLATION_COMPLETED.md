@@ -3,7 +3,7 @@ I did arrived by lunch time on Monday, as 1pm was listed as a begginning of Boot
 
 So, I did CDH installation without copy-pasting details from my screen due to time crunch I had.
 
-
+THIS FILE IS A REPLICA of file day.txt I sybmitted 3 days ago
 
 ==========
 1) on all 5 nodes: chage swappiness to 10
